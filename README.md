@@ -5,7 +5,7 @@
 
 ---
 
-## 📊 Featured Projects  
+## 📊  I’m currently working on 
 
 - 🏀 [**Basketball Statistics Analysis Application**](https://github.com/your-username/your-repo)  
   A web application built with **Angular** and **Node.js** for the statistical analysis of teams, players, and basketball games.  
@@ -38,5 +38,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-salvi-aaa298210/)  
 
 ---
-
-✨ *Always curious, always growing.*  
