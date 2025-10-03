@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alessandro Salvi 
 
-💻 **Software Developer** with over **3 years of freelance experience** and **3 years working in a company**, building end-to-end solutions across **front-end** and **back-end**.  
-🚀 Passionate about solving complex problems, learning new technologies, and turning data into real value.  
+💻 I am a **Software Engineer** with over **3 years of freelance experience** and, at the same time, **3 years working in an IT company**.  
+🚀 Skilled in **front-end development with Angular** and experienced in **back-end development with Java and Node.js**.  
 
 ---
 
