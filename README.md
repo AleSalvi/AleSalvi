@@ -7,7 +7,7 @@
 
 ## 📊  I’m currently working on 
 
-- 🏀 [**Basketball Statistics Analysis Application**](https://github.com/your-username/your-repo)  
+- 🏀 [**Basketball Statistics Analysis Application**](https://github.com/alerubis/lba)  
   A web application built with **Angular** and **Node.js** for the statistical analysis of teams, players, and basketball games.  
   Currently in use with an Italian **FirstLeague** basketball team, where I work as a **Data Analyst**.  
 
