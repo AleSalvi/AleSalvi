@@ -3,7 +3,6 @@
 💻 I am a **Software Engineer** with over **3 years of freelance experience** and, at the same time, **3 years working in an IT company**.  
 🚀 Skilled in **front-end development with Angular** and experienced in **back-end development with Java and Node.js**.  
 
----
 
 ## 📊 I worked on 
 
