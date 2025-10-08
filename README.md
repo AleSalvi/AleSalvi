@@ -7,8 +7,6 @@
 
 ## 📊 I worked on 
 
----
-
 ### 🏀 [**Statistical Analysis Software for Basketball**](https://github.com/alerubis/lba)  
 A web application built with **Angular** and **Node.js** for the statistical analysis of teams, players, and basketball games.  
 Currently in use with an Italian **First League** basketball team, where I work as a **Data Analyst**.  
