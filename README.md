@@ -5,13 +5,32 @@
 
 ---
 
-## 📊  I’m currently working on 
-
-- 🏀 [**Basketball Statistics Analysis Application**](https://github.com/alerubis/lba)  
-  A web application built with **Angular** and **Node.js** for the statistical analysis of teams, players, and basketball games.  
-  Currently in use with an Italian **FirstLeague** basketball team, where I work as a **Data Analyst**.  
+## 📊 I worked on 
 
 ---
+
+### 🏀 [**Statistical Analysis Software for Basketball**](https://github.com/alerubis/lba)  
+A web application built with **Angular** and **Node.js** for the statistical analysis of teams, players, and basketball games.  
+Currently in use with an Italian **First League** basketball team, where I work as a **Data Analyst**.  
+
+**Skills:** Data Analysis · Angular · Node.js · Python  
+
+---
+
+### 🛠️ [**Custom Management System for a Motorcycle and Bicycle Workshop**](https://github.com/busi-motorbike)  
+Development of a tailor-made management system for a mechanical workshop specializing in **bicycles and motorcycles**.  
+The system includes dedicated modules for **inventory management, sales, and repair operations**, and was designed in close collaboration with the client to align with their business processes, ensuring efficiency and seamless workflow integration.  
+
+**Skills:** Angular · Electron · SQLite  
+
+---
+
+### 🏗️ [**Tracking System for Construction Companies**](https://github.com/gervasonibrunosrl)  
+Development of a custom **Progressive Web App (PWA)** for construction companies, built with **Angular** and **Firebase**.  
+The platform enables precise tracking of **workers’ hours, equipment usage, and materials** across multiple job sites, with support for multiple accounts and real-time monitoring.  
+
+**Skills:** Angular · Firebase  
+
 
 ## 🛠️ Tech Stack  
 
@@ -25,7 +44,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 **Databases & Data Structures**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)   ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)  
