@@ -54,7 +54,7 @@ Supports multiple accounts and provides **real-time monitoring** and centralized
 ## 📫 Contact Me  
 
 - 📧 [alessandr023salvi@gmail.com](mailto:alessandr023salvi@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-salvi-aaa298210/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandrosalvi/)  
 - 💻 [GitHub Profile](https://github.com/AleSalvi)  
 
 ---
